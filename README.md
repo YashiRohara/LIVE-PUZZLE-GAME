@@ -1,6 +1,7 @@
 # 🧩 Live Puzzle Game
 
 An interactive puzzle game built using Python, Pygame, and OpenCV that allows users to solve image-based puzzles with real-time gameplay.
+This project demonstrates real-time interaction, game logic implementation, and basic computer vision integration.
 
 ---
 
@@ -20,11 +21,14 @@ An interactive puzzle game built using Python, Pygame, and OpenCV that allows us
 
 ---
 
-## ▶️ How to Run
-1. Install required libraries:
+   ## ▶️ How to Run
+1. Clone the repository:
+   git clone https://github.com/YashiRohara/LIVE-PUZZLE-GAME
+
+2. Install dependencies:
    pip install pygame opencv-python
 
-2. Run the game:
+3. Run the game:
    python main.py
 
 ---
@@ -47,6 +51,10 @@ An interactive puzzle game built using Python, Pygame, and OpenCV that allows us
 - score system
 
 ---
+## 🎯 Learning Outcomes
+- Implemented game logic using Python
+- Worked with real-time image processing using OpenCV
+- Improved problem-solving and debugging skills
 
 ## 👩‍💻 Author
 Yashi Rohara
