@@ -44,7 +44,7 @@ An interactive puzzle game built using Python, Pygame, and OpenCV that allows us
 ## 🔮 Future Improvements
 - Difficulty levels
 - Better UI/UX
-- Timer and score system
+- score system
 
 ---
 
